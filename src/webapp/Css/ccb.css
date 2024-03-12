@@ -1,0 +1,166 @@
+A:visited {
+	TEXT-DECORATION: none
+}
+A:active {
+	TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: underline overline
+}
+A:link {
+	TEXT-DECORATION: none
+}
+.t {
+	LINE-HEIGHT: 1.4
+}
+BODY {
+	FONT-FAMILY: ??; FONT-SIZE: 9pt; SCROLLBAR-HIGHLIGHT-COLOR: #c6e3f7; SCROLLBAR-SHADOW-COLOR: #c6e3f7; SCROLLBAR-3DLIGHT-COLOR: #ffffff; SCROLLBAR-ARROW-COLOR: #ffffff; SCROLLBAR-TRACK-COLOR: #ffffff; SCROLLBAR-DARKSHADOW-COLOR: #ffffff; SCROLLBAR-BASE-COLOR: #c6e3f7
+}
+TD {
+	FONT-FAMILY: ??; FONT-SIZE: 9pt
+}
+DIV {
+	FONT-FAMILY: ??; FONT-SIZE: 9pt
+}
+FORM {
+	FONT-FAMILY: ??; FONT-SIZE: 9pt
+}
+OPTION {
+	FONT-FAMILY: ??; FONT-SIZE: 9pt
+}
+P {
+	FONT-FAMILY: ??; FONT-SIZE: 9pt
+}
+TD {
+	FONT-FAMILY: ??; FONT-SIZE: 9pt
+}
+BR {
+	FONT-FAMILY: ??; FONT-SIZE: 9pt
+}
+INPUT {
+	BORDER-BOTTOM-COLOR: #cccccc; BORDER-BOTTOM-WIDTH: 1px; BORDER-LEFT-COLOR: #cccccc; BORDER-LEFT-WIDTH: 1px; BORDER-RIGHT-COLOR: #cccccc; BORDER-RIGHT-WIDTH: 1px; BORDER-TOP-COLOR: #cccccc; BORDER-TOP-WIDTH: 1px; FONT-SIZE: 9pt; HEIGHT: 18px; PADDING-BOTTOM: 1px; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; PADDING-TOP: 1px
+}
+TEXTAREA {
+	BACKGROUND-COLOR: #efefef; BORDER-BOTTOM-COLOR: #000000; BORDER-BOTTOM-WIDTH: 1px; BORDER-LEFT-COLOR: #000000; BORDER-LEFT-WIDTH: 1px; BORDER-RIGHT-COLOR: #000000; BORDER-RIGHT-WIDTH: 1px; BORDER-TOP-COLOR: #000000; BORDER-TOP-WIDTH: 1px; FONT-FAMILY: ??; FONT-SIZE: 9pt
+}
+SELECT {
+	BACKGROUND-COLOR: #efefef; BORDER-BOTTOM-COLOR: #000000; BORDER-BOTTOM-WIDTH: 1px; BORDER-LEFT-COLOR: #000000; BORDER-LEFT-WIDTH: 1px; BORDER-RIGHT-COLOR: #000000; BORDER-RIGHT-WIDTH: 1px; BORDER-TOP-COLOR: #000000; BORDER-TOP-WIDTH: 1px; FONT-FAMILY: ??; FONT-SIZE: 9pt
+}
+#mainbg {
+	BACKGROUND-COLOR: #ffffff
+}
+#mainfoot {
+	BACKGROUND-COLOR: #bcd0ed
+}
+#alt1 {
+	BACKGROUND-COLOR: #eef2f7
+}
+#forum1 {
+	BACKGROUND-COLOR: #dfe6ef
+}
+#forum2 {
+	BACKGROUND-COLOR: #e4eaf2
+}
+#post1 {
+	BACKGROUND-COLOR: #f5f9fd
+}
+#post2 {
+	BACKGROUND-COLOR: #f5f9fd
+}
+#posthead {
+	BACKGROUND-COLOR: #e4eaf2
+}
+#postfoot {
+	BACKGROUND-COLOR: #d1dceb
+}
+#postbak {
+	BACKGROUND-COLOR: #d2d2d0
+}
+#title {
+	BACKGROUND-COLOR: #c4dcf7
+}
+#row1 {
+	BACKGROUND-COLOR: #eef2f7
+}
+#row2 {
+	BACKGROUND-COLOR: #f5f9fd
+}
+#postsep {
+	BACKGROUND-COLOR: #c7d2e0; HEIGHT: 1px
+}
+#titlefoot {
+	BACKGROUND-COLOR: #bcd0ed; COLOR: #3a4f6c; FONT-WEIGHT: bold; HEIGHT: 24px
+}
+#titlemedium {
+	BACKGROUND-COLOR: #9fbce3; COLOR: #3a4f6c; FONT-WEIGHT: bold; HEIGHT: 24px
+}
+#titlemedium A:link {
+	COLOR: #3a4f6c; TEXT-DECORATION: underline
+}
+#subtitle A:link {
+	COLOR: #3a4f6c; TEXT-DECORATION: underline
+}
+#titlefoot A:link {
+	COLOR: #3a4f6c; TEXT-DECORATION: underline
+}
+#titlemedium A:visited {
+	COLOR: #3a4f6c; TEXT-DECORATION: underline
+}
+#subtitle A:visited {
+	COLOR: #3a4f6c; TEXT-DECORATION: underline
+}
+#titlefoot A:visited {
+	COLOR: #3a4f6c; TEXT-DECORATION: underline
+}
+#titlemedium A:active {
+	COLOR: #3a4f6c; TEXT-DECORATION: underline
+}
+#subtitle A:active {
+	COLOR: #3a4f6c; TEXT-DECORATION: underline
+}
+#titlefoot A:active {
+	COLOR: #3a4f6c; TEXT-DECORATION: underline
+}
+#titlemedium A:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+#subtitle A:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+#titlefoot A:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+#maintitleback {
+	HEIGHT: 26px
+}
+#maintitle {
+	COLOR: #ffffff; FONT-SIZE: 9pt
+}
+#maintitle A:link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+#maintitle A:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+#maintitle A:active {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+#maintitle A:hover {
+	TEXT-DECORATION: underline
+}
+#solidborder {
+	BORDER-BOTTOM: #999999 1px solid; BORDER-LEFT: #999999 1px solid; BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #999999 1px solid
+}
+TABLE {
+	COLOR: #000000; FONT-FAMILY: Verdana, Tahoma, Arial; FONT-SIZE: 9pt
+}
+TR {
+	COLOR: #000000; FONT-FAMILY: Verdana, Tahoma, Arial; FONT-SIZE: 9pt
+}
+TD {
+	COLOR: #000000; FONT-FAMILY: Verdana, Tahoma, Arial; FONT-SIZE: 9pt
+}
+#category {
+	BACKGROUND-COLOR: #c2cfdf; COLOR: #4c77b6; FONT-SIZE: 9pt; FONT-WEIGHT: bold; LINE-HEIGHT: 150%
+}
+.xing {COLOR: #FF0000}
